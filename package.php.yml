@@ -1,0 +1,13 @@
+name: jphp-orientdb-ext
+version: 1.0.0
+description: Driver for NoSQL database OrientDB.
+
+plugins:
+- Doc
+- Gradle
+
+deps:
+  jphp-runtime: '*'
+  
+sources:
+- src
